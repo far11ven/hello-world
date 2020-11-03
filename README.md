@@ -1,2 +1,2 @@
 # hello-world
-Demo for Multiple Github Pages
+Demo for sub-domain Github Pages
